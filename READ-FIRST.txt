@@ -1,0 +1,6 @@
+step-0: system need to be install MongoDB.
+
+step-1: install dependencies. use folloing command.
+    npm install 
+step-2: run the project using following command.
+    node index.js    
